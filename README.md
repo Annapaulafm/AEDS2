@@ -9,7 +9,7 @@
 | 👤 Nome | 🎓 Matrícula |
 |---|---|
 | Ana Paula Ferreira | 6569 |
-| Laura ... | XXXX |
+| Laura Soares do Vale | 6574 |
 
 ---
 
