@@ -2,22 +2,14 @@
 #define PATRICIA_H
 
 #include <stdio.h>
+#include <stdlib.h>
+#include <limits.h>
 
+#include "livro.h"
 
-#define M 100
 #define B 6
 
 typedef unsigned int Chave;
-
-//ESTRUTURA DE LIVRO
-typedef struct livro
-{
-    int id;
-    char titulo[M];
-    char autor[M];
-    int ano;    //ANO DA PUBLICAÇÃO
-    int quantidade;     //QUANTIDADE EM ESTOQUE
-}Livro;
 
 typedef enum
 {
@@ -28,8 +20,12 @@ typedef enum
 typedef struct patricia_no patricia_no;
 typedef struct patricia patricia;
 
-//FUNÇÕES LIVRO
-int criar_livro(FILE *arq, Livro *livro);
+int patricia_bit(int i, Chave chave);
+patricia *cria_patricia(void);
+int inserir_patricia(patricia *arvore, Livro *livro);
+Livro *buscar_patricia(patricia *arvore, Chave id);
+int remover_patricia(patricia *arvore, Chave id);
+void imprimir_patricia(patricia *arvore);
+void destruir_patricia(patricia *arvore);
 
-//FUNÇÕES PATRICIA
 #endif

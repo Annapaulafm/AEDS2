@@ -1,10 +1,17 @@
-1;O Acordo;Elle Kennedy;2015;8
-2;O Erro;Elle Kennedy;2015;6
-3;O Jogo;Elle Kennedy;2016;10
-4;A Conquista;Elle Kennedy;2016;5
-5;The Legacy;Elle Kennedy;2021;7
-6;O Acordo;Elle Kennedy;2015;8
-7;O Erro;Elle Kennedy;2015;6
-8;O Jogo;Elle Kennedy;2016;10
-9;A Conquista;Elle Kennedy;2016;5
-10;The Legacy;Elle Kennedy;2021;7
+O Acordo;Elle Kennedy;2015;8;8
+O Erro;Elle Kennedy;2015;6;6
+O Jogo;Elle Kennedy;2016;10;10
+A Conquista;Elle Kennedy;2016;5;5
+The Legacy;Elle Kennedy;2021;7;7
+Harry Potter e a Pedra Filosofal;J.K. Rowling;1997;10;10
+Harry Potter e a Câmara Secreta;J.K. Rowling;1998;7;7
+Harry Potter e o Prisioneiro de Azkaban;J.K. Rowling;1999;12;12
+Harry Potter e o Cálice de Fogo;J.K. Rowling;2000;5;5
+Harry Potter e a Ordem da Fênix;J.K. Rowling;2003;8;8
+Harry Potter e o Enigma do Príncipe;J.K. Rowling;2005;6;6
+Harry Potter e as Relíquias da Morte;J.K. Rowling;2007;9;9
+Jogos Vorazes;Suzanne Collins;2008;11;11
+Em Chamas;Suzanne Collins;2009;6;6
+A Esperança;Suzanne Collins;2010;8;8
+A Cantiga dos Pássaros e das Serpentes;Suzanne Collins;2020;4;4
+Sunrise on the Reaping;Suzanne Collins;2025;7;7
